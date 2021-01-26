@@ -1,0 +1,270 @@
+"item","description","City","County","Local","School","Special","State","Total","Township"
+"1","19T",NA,1022573,191928,1216926,NA,2425,28304308,29521234,NA
+"2","19U","Long Term Debt Beginning – Unspecified Public Purposes (NEW as of 2005)",41069000,6001124,89430367,22391684,19825675,37479803,126910170,142884
+"3","24T","Long Term Debt Issue, Nonguaranteed - Public Debt for Private Purpose",NA,NA,NA,NA,NA,3690509,3690509,NA
+"4","29U","Long Term Debt Issue – Unspecified Public Purposes (NEW as of 2005)",4688433,1234677,11427338,3572474,1927885,2840501,14267839,3869
+"5","34T","Long Term Debt Retired Nonguaranteed - Public Debt for Private Purpose",176540,7387,184324,NA,397,6459116,6643440,NA
+"6","39U","Long Term Debt Retired - Unspecified Public Purposes (NEW for 2005)",4602288,1054643,10749102,2749907,2320252,4098496,14847598,22012
+"7","44T","Long Term Debt Outstanding Nonguaranteed - Public Debt for Private Purposes",846033,284046,1132107,NA,2028,25593828,26725935,NA
+"8","49U","Long Term Debt Outstanding – Unspecified Public Purposes (NEW for 2005)",41155135,6181160,90135863,23241518,19433317,36222121,126357984,124733
+"9","61V","Short Term Debt Outstanding - Beginning",7000,213,1144193,973106,163806,7789,1151982,68
+"10","64V","Short Term Debt Outstanding - End of Fiscal Year",700,216,1596980,1435428,160583,5370,1602350,53
+"11","A01","Charges - Air Transportation",1375243,NA,1425108,NA,49865,NA,1425108,NA
+"12","A03","Charges - Miscellaneous Commercial Activities",9,NA,489,NA,480,NA,489,NA
+"13","A09","Charges - Elementary & Secondary Education School Lunch",NA,NA,203089,203089,NA,NA,203089,NA
+"14","A10","Charges - Elementary & Secondary Education School Tuition",NA,NA,66891,66891,NA,NA,66891,NA
+"15","A12","Charges - Elementary & Secondary Education, Other",NA,NA,356281,356281,NA,NA,356281,NA
+"16","A16","Charges - Higher Education Auxiliary Enterprises",NA,NA,110660,110660,NA,770525,881185,NA
+"17","A18","Charges - Higher Education, Other",NA,NA,591351,591351,NA,2356700,2948051,NA
+"18","A21","Charges - Education - Other, NEC",NA,NA,NA,NA,NA,1605,1605,NA
+"19","A36","Charges - Public Hospital",253050,301680,1011216,NA,456486,814692,1825908,NA
+"20","A44","Charges - Regular Highways",15028,1202,17315,NA,842,2471,19786,243
+"21","A45","Charges - Toll Highways",NA,NA,NA,NA,NA,1303283,1303283,NA
+"22","A50","Charges - Housing & Community Development",10979,NA,187769,NA,175814,41183,228952,976
+"23","A59","Charges - Natural Resources, Other",NA,15769,48446,NA,32677,15592,64038,NA
+"24","A60","Charges – Parking Facilities (NEW for 2005)",56169,809,57654,NA,550,NA,57654,126
+"25","A61","Charges - Parks & Recreation",202781,68239,1132002,NA,859113,5147,1137149,1869
+"26","A80","Charges - Sewerage",1044454,44484,1423887,NA,324583,NA,1423887,10366
+"27","A81","Charges - Solid Waste Management",319048,7457,333350,NA,6649,NA,333350,196
+"28","A87","Charges - Sea and Inland Port Facilities",NA,NA,9678,NA,9678,NA,9678,NA
+"29","A89","Charges - All Other",707001,863381,1754490,NA,173208,32440,1786930,10900
+"30","A91","Revenue - Water Utilities",2706075,22584,3040370,NA,305042,NA,3040370,6669
+"31","A92","Revenue - Electric Utilities",823018,NA,1213065,NA,390047,NA,1213065,NA
+"32","A93","Revenue - Gas Utilities",55996,NA,69055,NA,13059,NA,69055,NA
+"33","A94","Revenue - Transit Utilities",7039,NA,1019118,NA,1011961,NA,1019118,118
+"34","B01","Intergovernmental Revenue from Federal - Air Transportation",129730,NA,141821,NA,12091,69392,211213,NA
+"35","B21","Intergovernmental Revenue from Federal - Education",142638,NA,345037,202399,NA,3294890,3639927,NA
+"36","B22","Intergovernmental Revenue from Federal- Employment Security Administration",NA,NA,NA,NA,NA,177774,177774,NA
+"37","B30","Intergovernmental Revenue from Federal - General Support",12819,7045,20836,NA,NA,NA,20836,972
+"38","B42","Intergovernmental Revenue from Federal - Health & Hospitals",110123,102416,214741,NA,127,545039,759780,2075
+"39","B46","Intergovernmental Revenue from Federal - Highways",26151,10817,37735,NA,222,1588615,1626350,545
+"40","B50","Intergovernmental Revenue from Federal - Housing & Community Development",190801,41090,1437982,NA,1205924,313718,1751700,167
+"41","B59","Intergovernmental Revenue from Federal - Other Natural Resources",NA,2143,3614,NA,1471,45988,49602,NA
+"42","B79","Intergovernmental Revenue from Federal - Public Welfare",25227,69849,95174,NA,NA,12456862,12552036,98
+"43","B80","Intergovernmental Revenue from Federal - Sewerage",16639,NA,20934,NA,4295,87308,108242,NA
+"44","B89","Intergovernmental Revenue from Federal - All Other",59560,133021,204478,NA,10086,569174,773652,1811
+"45","B91","Intergovernmental Revenue from Federal - Water Utilities",9695,9,22850,NA,12696,43002,65852,450
+"46","B92","Intergovernmental Revenue from Federal - Electric Utilities",12,NA,4461,NA,4449,NA,4461,NA
+"47","B94","Intergovernmental Revenue from Federal - Transit Utilities",61077,3297,1057449,NA,993019,477687,1535136,56
+"48","C21",NA,NA,NA,10830199,10830199,NA,NA,NA,NA
+"49","C30",NA,3647482,774355,4465017,NA,NA,NA,NA,43180
+"50","C42",NA,15565,75943,96315,NA,2157,NA,NA,2650
+"51","C46",NA,416638,338054,788754,NA,1372,NA,NA,32690
+"52","C50",NA,9210,965,27890,NA,17715,NA,NA,NA
+"53","C79",NA,49171,1362405,1412893,NA,NA,NA,NA,1317
+"54","C80",NA,NA,NA,65250,NA,65250,NA,NA,NA
+"55","C89",NA,205219,69433,445208,NA,167923,NA,NA,2633
+"56","C91",NA,11747,NA,11963,NA,216,NA,NA,NA
+"57","C92",NA,632,NA,632,NA,NA,NA,NA,NA
+"58","C93",NA,26,NA,26,NA,NA,NA,NA,NA
+"59","C94",NA,27755,4970,1203852,NA,1170854,NA,NA,273
+"60","D21","Intergovernmental Revenue from Local - Education",NA,NA,NA,356987,NA,43680,NA,NA
+"61","D30","Intergovernmental Revenue from Local - General Support",39,NA,NA,NA,NA,NA,NA,NA
+"62","D42","Intergovernmental Revenue from Local - Health & Hospitals",NA,878,NA,NA,12,NA,NA,576
+"63","D46","Intergovernmental Revenue from Local - Highways",NA,1510,NA,NA,18,89530,NA,22
+"64","D50","Intergovernmental Revenue from Local - Housing and Community Development (NEW in 2007)",NA,NA,NA,NA,21512,NA,NA,NA
+"65","D79","Intergovernmental Revenue from Local - Public Welfare",NA,NA,NA,NA,NA,243988,NA,NA
+"66","D80","Intergovernmental Revenue from Local - Sewerage",NA,NA,NA,NA,13565,NA,NA,NA
+"67","D89","Intergovernmental Revenue from Local - All Other",138349,106921,NA,NA,255805,23431,NA,5822
+"68","D91","Intergovernmental Revenue from Local - Water Utilities",NA,NA,NA,NA,190,NA,NA,NA
+"69","D94","Intergovernmental Revenue from Local - Transit Utilities",NA,NA,NA,NA,20893,NA,NA,NA
+"70","E01","Current Operations - Air Transportation",679698,4625,749851,NA,64843,13107,762958,685
+"71","E03","Current Operations - Miscellaneous Commercial Activities, NEC",11169,3,24251,NA,2576,NA,24251,10503
+"72","E04","Current Operations - Correctional Institutions",NA,626689,631186,NA,4497,1336307,1967493,NA
+"73","E05","Current Operations - Corrections, Other",NA,91264,91264,NA,NA,29518,120782,NA
+"74","E12","Current Operations - Elementary & Secondary Education",NA,NA,24704416,24704416,NA,NA,24704416,NA
+"75","E16","Current Operations - Higher Education Auxiliary Enterprises",NA,NA,167773,167773,NA,866717,1034490,NA
+"76","E18","Current Operations - Other Higher Education",NA,NA,2311218,2311218,NA,5269927,7581145,NA
+"77","E21","Current Operations - Other Education",NA,NA,NA,NA,NA,476600,476600,NA
+"78","E22","Current Operations - Social Insurance Administration",NA,NA,NA,NA,NA,50777,50777,NA
+"79","E23","Current Operations - Financial Administration",489852,181448,764443,NA,NA,1294017,2058460,93143
+"80","E24",NA,1909621,37,2537887,NA,627705,NA,2537887,524
+"81","E25","Current Operations - Judicial and Legal Services",32178,917798,949979,NA,NA,556586,1506565,3
+"82","E29","Current Operations - Central Staff Services",989608,347935,1449596,NA,NA,77281,1526877,112053
+"83","E31","Current Operations - General Public Buildings",344394,80242,433032,NA,NA,14154,447186,8396
+"84","E32","Current Operations - Health Services, Other",164150,749328,943490,NA,16328,1094209,2037699,13684
+"85","E36","Current Operations - Own Hospitals",262469,1565013,2284648,NA,457166,875965,3160613,NA
+"86","E44","Current Operations - Regular Highways",1414100,362861,2154433,NA,111785,761979,2916412,265687
+"87","E45","Current Operations - Toll Highways",NA,NA,NA,NA,NA,335273,335273,NA
+"88","E50","Current Operations - Housing & Community Development",300444,15886,1605086,NA,1287792,222836,1827922,964
+"89","E52","Current Operations - Libraries",400772,NA,727632,NA,325318,4827,732459,1542
+"90","E59","Current Operations - Natural Resources, Other",151,292897,438767,NA,145719,177180,615947,NA
+"91","E60","Current Operations – Parking Facilities (NEW for 2005)",40913,120,41912,NA,731,NA,41912,148
+"92","E61","Current Operations - Parks & Recreation",455194,141971,2309659,NA,1703276,66100,2375759,9218
+"93","E62","Current Operations - Police Protection",4037841,676094,4716405,NA,1475,390325,5106730,995
+"94","E66","Current Operations - Protective Inspection and Regulation, NEC",94607,20153,114760,NA,NA,145661,260421,NA
+"95","E74","Current Operations - Welfare, Vendor Payments for Medical Care",NA,NA,NA,NA,NA,16226102,16226102,NA
+"96","E75","Current Operations - Welfare, Vendor Payments for Other Purposes",NA,12012,12083,NA,NA,3039280,3051363,71
+"97","E77","Current Operations - Welfare Institutions",NA,2584,2597,NA,NA,94313,96910,13
+"98","E79","Current Operations - Welfare, Other",355985,157806,566468,NA,NA,2593857,3160325,52677
+"99","E80","Current Operations - Sewerage",395850,62398,962155,NA,503480,NA,962155,427
+"100","E81","Current Operations - Solid Waste Management",415136,7439,431457,NA,8816,7844,439301,66
+"101","E85","Current Operations - Other Veterans Services",NA,NA,NA,NA,NA,10011,10011,NA
+"102","E87","Current Operations - Sea and Inland Port Facilities",NA,NA,6517,NA,6517,NA,6517,NA
+"103","E89","Current Operations - General, Other",2189781,586350,2987744,NA,140322,4386827,7374571,71291
+"104","E91","Current Operations - Water Utilities",1762486,NA,1851591,NA,83578,NA,1851591,5527
+"105","E92","Current Operations - Electric Utilities",732908,NA,978983,NA,246075,5171,984154,NA
+"106","E93","Current Operations - Gas Utilities",50145,NA,63184,NA,13039,NA,63184,NA
+"107","E94","Current Operations - Transit Utilities",32676,NA,3081164,NA,3048488,NA,3081164,NA
+"108","F01","Construction - Air Transportation",600754,NA,633943,NA,33189,18596,652539,NA
+"109","F03","Construction - Miscellaneous Commercial Activities, NEC",NA,NA,30,NA,30,NA,30,NA
+"110","F04","Construction - Correctional Institutions",NA,8872,9025,NA,153,11684,20709,NA
+"111","F12","Construction - Elementary & Secondary Education",NA,NA,1551223,1551223,NA,NA,1551223,NA
+"112","F16","Construction - Higher Education, Auxiliary Enterprises",NA,NA,NA,NA,NA,38861,38861,NA
+"113","F18","Construction - Higher Education, Other",NA,NA,198839,198839,NA,174586,373425,NA
+"114","F21","Construction - Education, Other",NA,NA,NA,NA,NA,2640,2640,NA
+"115","F23","Construction - Financial Administration",6500,555,7398,NA,NA,203,7601,343
+"116","F24",NA,12103,NA,21773,NA,9430,NA,21773,240
+"117","F25","Construction - Judicial & Legal",NA,263,263,NA,NA,3,266,NA
+"118","F29","Construction - Central Staff Services",78461,7110,87604,NA,NA,2334,89938,2033
+"119","F31","Construction - General Public Buildings",2151,91275,93426,NA,NA,29565,122991,NA
+"120","F32","Construction - Health, Other",428,1228,1663,NA,7,3632,5295,NA
+"121","F36","Construction - Own Hospitals",560,NA,6926,NA,6366,30902,37828,NA
+"122","F44","Construction - Regular Highways",655746,173737,836622,NA,56,2246372,3082994,7083
+"123","F45","Construction - Toll Highways",NA,NA,NA,NA,NA,2535673,2535673,NA
+"124","F50","Construction - Housing & Community Development",25063,2447,202626,NA,175116,NA,202626,NA
+"125","F52","Construction - Libraries",15651,NA,35553,NA,19902,NA,35553,NA
+"126","F59","Construction - Natural Resources, Other",118,10890,34843,NA,23835,1468,36311,NA
+"127","F60","Construction – Parking Facilities (NEW for 2005)",12820,113,12946,NA,NA,NA,12946,13
+"128","F61","Construction - Parks & Recreation",13465,269,486891,NA,472758,8836,495727,399
+"129","F62","Construction - Police Protection",26702,16142,42844,NA,NA,442,43286,NA
+"130","F77","Construction - Welfare Institutions",NA,946,946,NA,NA,4,950,NA
+"131","F79","Construction - Welfare, Other",263,991,1672,NA,NA,1767,3439,418
+"132","F80","Construction - Sewerage",287737,NA,572007,NA,284270,NA,572007,NA
+"133","F81","Construction - Solid Waste Management",112845,1575,114531,NA,111,NA,114531,NA
+"134","F85","Construction - Other Veterans Services",NA,NA,NA,NA,NA,873,873,NA
+"135","F89","Construction - General",212710,3032,368784,NA,153036,22494,391278,6
+"136","F91","Construction - Water Utilities",431754,NA,439603,NA,7405,NA,439603,444
+"137","F92","Construction - Electric Utilities",NA,NA,2672,NA,2672,NA,2672,NA
+"138","F94","Construction - Transit Utilities",NA,NA,798962,NA,798962,NA,798962,NA
+"139","G01","Other Capital Outlay - Air Transportation",6593,NA,22467,NA,15874,3258,25725,NA
+"140","G03","Other Capital Outlay - Miscellaneous Commercial Activities, NEC",NA,NA,16,NA,16,NA,16,NA
+"141","G04","Other Capital Outlay - Correctional Institutions",7,1773,2008,NA,228,2204,4212,NA
+"142","G05","Other Capital Outlay - Corrections, Other",NA,NA,NA,NA,NA,672,672,NA
+"143","G12","Other Capital Outlay - Elementary and Secondary Education",NA,NA,334566,334566,NA,NA,334566,NA
+"144","G16","Other Capital Outlay - Higher Education, Auxiliary Enterprises",NA,NA,70,70,NA,5604,5674,NA
+"145","G18","Other Capital Outlay - Other Higher Education",NA,NA,47474,47474,NA,118911,166385,NA
+"146","G21","Other Capital Outlay - Education, Other",NA,NA,NA,NA,NA,2851,2851,NA
+"147","G22","Other Capital Outlay - Social Insurance Administration",NA,NA,NA,NA,NA,1,1,NA
+"148","G23","Other Capital Outlay - Financial Administration",8,NA,286,NA,NA,14956,15242,278
+"149","G24",NA,29979,NA,94105,NA,64108,NA,94105,18
+"150","G25","Other Capital Outlay - Judicial",3,NA,3,NA,NA,1708,1711,NA
+"151","G29","Other Capital Outlay - Central Staff",341418,26447,379870,NA,NA,1805,381675,12005
+"152","G31","Other Capital Outlay - General Public Building",802,NA,802,NA,NA,26683,27485,NA
+"153","G32","Other Capital Outlay - Health - Other",146,334,1594,NA,1055,1285,2879,59
+"154","G36","Other Capital Outlay - Own Hospitals",1250,1114,19777,NA,17413,5726,25503,NA
+"155","G44","Other Capital Outlay - Regular Highways",218465,59072,318344,NA,NA,63257,381601,40807
+"156","G45","Other Capital Outlay - Toll Highways",NA,NA,NA,NA,NA,95450,95450,NA
+"157","G50","Other Capital Outlay - Housing & Community Development",19322,459,74432,NA,54452,NA,74432,199
+"158","G52","Other Capital Outlay - Libraries",11240,NA,45395,NA,34155,20,45415,NA
+"159","G59","Other Capital Outlay - Natural Resource - Other",1941,7397,22765,NA,12632,7642,30407,795
+"160","G60","Other Capital Outlay – Parking Facilities (NEW for 2005)",20088,NA,20301,NA,NA,NA,20301,213
+"161","G61","Other Capital Outlay - Parks & Recreation",35973,3362,243291,NA,203148,1660,244951,808
+"162","G62","Other Capital Outlay - Police Protection",64446,22985,87492,NA,61,18386,105878,NA
+"163","G66","Other Capital Outlay - Protective Inspection & Regulation, NEC",2,NA,2,NA,NA,639,641,NA
+"164","G77","Other Capital Outlay - Welfare Institutions",NA,2426,2426,NA,NA,628,3054,NA
+"165","G79","Other Capital Outlay - Welfare, Other",2195,5215,8081,NA,248,2821,10902,423
+"166","G80","Other Capital Outlay - Sewerage",43455,1022,113427,NA,64678,18,113445,4272
+"167","G81","Other Capital Outlay - Solid Waste Management",69453,NA,69522,NA,69,NA,69522,NA
+"168","G85","Other Capital Outlay - Other Veterans Services",NA,NA,NA,NA,NA,2513,2513,NA
+"169","G89","Other Capital Outlay - General, Other",82312,62118,152631,NA,6847,10361,162992,1354
+"170","G91","Other Capital Outlay - Water Utilities",301017,NA,329283,NA,28069,NA,329283,197
+"171","G92","Other Capital Outlay - Electric Utilities",NA,NA,NA,NA,NA,10,10,NA
+"172","G94","Other Capital Outlay - Transit Utilities",NA,NA,372935,NA,372935,NA,372935,NA
+"173","I89","Interest on General Debt",1532782,268513,3465843,1069943,588887,3494857,6960700,5718
+"174","I91","Water Utilities - Interest on Debt",107898,NA,119567,NA,11669,NA,119567,NA
+"175","I92","Electric Utilities - Interest on Debt",NA,NA,77242,NA,77242,NA,77242,NA
+"176","I94","Transit Utilities - Interest on Debt",NA,NA,319517,NA,319517,NA,319517,NA
+"177","J19","Assistance and Subsidies – Scholarships and Other Subsidies – Education (NEW for 2005; previously under E19)",NA,NA,NA,NA,NA,1530962,1530962,NA
+"178","J67","Assistance and Subsidies – Public Welfare, Federal Categorical Assistance Programs (NEW for 2005; previously under E67)",NA,NA,NA,NA,NA,120733,120733,NA
+"179","J68","Assistance and Subsidies – Public Welfare, Cash Assistance Programs, Other (NEW for 2005; previously under E68)",NA,NA,NA,NA,NA,2843,2843,NA
+"180","J85","Assistance and Subsidies - Veterans' Bonuses (NEW for 2005; previously under E84)",NA,NA,NA,NA,NA,1016,1016,NA
+"181","L23",NA,NA,NA,10,NA,NA,NA,NA,10
+"182","L44",NA,NA,6,6,NA,NA,NA,NA,NA
+"183","L50",NA,NA,NA,39,NA,39,NA,NA,NA
+"184","L59",NA,NA,NA,1,NA,1,NA,NA,NA
+"185","L89",NA,NA,NA,10,NA,10,NA,NA,NA
+"186","M01","Intergovernmental to Local NEC - Air Transportation",NA,NA,NA,NA,1215,38016,NA,NA
+"187","M04","Intergovernmental to Local NEC – Correctional Institutions (NEW for 2005)",NA,NA,NA,NA,NA,810,NA,NA
+"188","M23","Intergovernmental to Local NEC - Financial Administration",NA,NA,NA,NA,NA,NA,NA,52
+"189","M24",NA,NA,NA,NA,NA,2104,NA,NA,NA
+"190","M25","Intergovernmental to Local NEC - Judicial and Legal",NA,NA,NA,NA,NA,108252,NA,NA
+"191","M29","Intergovernmental to Local NEC - Central Staff Services",NA,NA,NA,NA,NA,1062,NA,NA
+"192","M30","Intergovernmental to Local NEC - General Support",NA,NA,NA,NA,NA,5249229,NA,NA
+"193","M32","Intergovernmental to Local NEC - Health",NA,NA,NA,NA,108,156950,NA,NA
+"194","M36","Intergovernmental to Local NEC – Hospitals (NEW for 2005)",NA,NA,NA,NA,139,NA,NA,NA
+"195","M44","Intergovernmental to Local NEC - Regular Highways",NA,21,NA,NA,191,651437,NA,NA
+"196","M50","Intergovernmental to Local NEC - Housing & Community Development",NA,NA,NA,NA,2999,36470,NA,NA
+"197","M52","Intergovernmental to Local NEC - Libraries",217,NA,NA,NA,42,20247,NA,NA
+"198","M59","Intergovernmental to Local NEC - Natural Resources",NA,313,NA,NA,925,51448,NA,NA
+"199","M61","Intergovernmental to Local NEC - Parks & Recreation",NA,NA,NA,NA,6449,193197,NA,NA
+"200","M62","Intergovernmental to Local NEC - Police Protection",NA,NA,NA,NA,NA,28063,NA,NA
+"201","M66","Intergovernmental to Local NEC - Protective Inspection & Regulations",NA,NA,NA,NA,NA,91080,NA,NA
+"202","M67","Intergovernmental to Local NEC - Welfare, Categorical Assistance Programs",NA,NA,NA,NA,NA,2405709,NA,NA
+"203","M79","Intergovernmental to Local NEC - Welfare",NA,NA,NA,NA,NA,391419,NA,NA
+"204","M80","Intergovernmental to Local NEC - Sewerage",NA,NA,NA,NA,9191,5190,NA,NA
+"205","M81","Intergovernmental to Local NEC - Solid Waste Management",NA,NA,NA,NA,1,1075,NA,NA
+"206","M89","Intergovernmental to Local NEC - General",73802,15756,NA,NA,4267,270002,NA,2400
+"207","M91","Intergovernmental to Local NEC - Water Utilities",NA,NA,NA,NA,40464,NA,NA,NA
+"208","M94","Intergovernmental to Local NEC - Transit Utilities",NA,NA,NA,NA,144071,1528332,NA,NA
+"209","Q12","Intergovernmental to School District - Elementary and Secondary Education",NA,NA,NA,NA,NA,9606574,NA,NA
+"210","Q18","Intergovernmental to School District - Higher Education, Other",NA,NA,NA,NA,NA,438704,NA,NA
+"211","S89","Intergovernmental to Federal - General, Other",NA,NA,NA,NA,NA,5763,5763,NA
+"212","T01","Tax - Property",4480537,2387928,28561414,18142112,2943645,63283,28624697,607192
+"213","T09","Tax - General Sales",993741,978825,3047937,NA,1075371,11363366,14411303,NA
+"214","T10","Tax - Alcoholic Beverage Sales",33137,37766,70903,NA,NA,294304,365207,NA
+"215","T11","Tax - Amusement",164062,40243,204305,NA,NA,835445,1039750,NA
+"216","T12","Tax - Insurance Premiums",5385,NA,5385,NA,NA,418582,423967,NA
+"217","T13","Tax - Motor Fuels Sales",53573,111103,164676,NA,NA,1348414,1513090,NA
+"218","T14","Tax - Pari-mutuels",592,NA,592,NA,NA,6131,6723,NA
+"219","T15","Tax - Public Utilities",990640,887,991530,NA,NA,1527274,2518804,3
+"220","T16","Tax - Tobacco Sales",23131,137717,160848,NA,NA,781528,942376,NA
+"221","T19","Tax - Other Selective Sales",1278880,101955,1539723,NA,157584,2054850,3594573,1304
+"222","T20","Tax - Alcoholic Beverage License",12211,320,12531,NA,NA,17021,29552,NA
+"223","T21","Tax - Amusement License",NA,NA,NA,NA,NA,15491,15491,NA
+"224","T22","Tax - Corporation License",NA,NA,NA,NA,NA,364482,364482,NA
+"225","T23","Tax - Hunting & Fishing License",NA,NA,NA,NA,NA,40808,40808,NA
+"226","T24","Tax - Motor Vehicle License",37578,3627,41205,NA,NA,1728151,1769356,NA
+"227","T25","Tax - Motor Vehicle Operators License",NA,NA,NA,NA,NA,114629,114629,NA
+"228","T27","Tax - Public Utility License",NA,NA,NA,NA,NA,18025,18025,NA
+"229","T28","Tax - Occupation & Business License, NEC",25960,NA,25960,NA,NA,465109,491069,NA
+"230","T29","Tax - Other License",472872,53282,535629,NA,8741,30267,565896,734
+"231","T40","Tax - Individual Income",NA,NA,NA,NA,NA,13256769,13256769,NA
+"232","T41","Tax - Corporation Net Income",NA,NA,NA,NA,NA,2877499,2877499,NA
+"233","T50","Tax - Death & Gift",NA,NA,NA,NA,NA,280940,280940,NA
+"234","T51","Tax - Documentary & Stock Transfer",281590,NA,281590,NA,NA,76555,358145,NA
+"235","T99","Tax - NEC",2949,20449,55109,NA,31153,NA,55109,558
+"236","U01","Miscellaneous - Special Assessments",517055,11,519241,NA,2175,NA,519241,NA
+"237","U11","Miscellaneous - Property Sale Other",10900,248,13032,NA,1883,237,13269,1
+"238","U20","Miscellaneous - Interest Earnings",175410,32021,373270,106854,56088,1668753,2042023,2897
+"239","U30","Miscellaneous - Fines & Forfeits",531416,128458,671418,NA,11237,132735,804153,307
+"240","U40","Miscellaneous - Rents",20632,NA,20656,NA,24,1242,21898,NA
+"241","U41","Miscellaneous - Royalties",NA,NA,3,NA,3,NA,3,NA
+"242","U50","Miscellaneous - Donations From Private Sources",2,1382,57138,55176,406,379383,436521,172
+"243","U95","Miscellaneous - Net Lottery Revenue",NA,NA,NA,NA,NA,1023846,1023846,NA
+"244","U99","Miscellaneous - General Revenue, NEC",553661,144101,1458005,400406,330482,1854756,3312761,29355
+"245","W01","Sinking Fund - Cash & Deposits",2895043,403270,5201799,1633829,269406,28923299,34125098,251
+"246","W31","Bond Fund - Cash & Deposits",1595484,386053,5098914,2496597,619390,2179255,7278169,1390
+"247","W61","Other Funds - Cash & Deposits",12743545,4588900,40105892,14766929,6940922,15410759,55516651,1065596
+"248","X01","Employee Pensions Receipts - Local Employee Contribution",747543,180613,1288949,242090,118685,3142218,4431167,18
+"249","X30","DISCONTINUED as of 2012; Employee Pensions - Total Federal Securities",1060058,492842,2832393,1027032,252451,10673730,13506123,10
+"250","X40","DISCONTINUED as of 2002; see Z77 (Formerly: Employee Pensions - Securities - Corporate Bonds (Book Value))",3000496,802686,5742310,1403989,534994,12886386,18628696,145
+"251","X50",NA,548862,142540,986339,187539,107388,1855824,2842163,10
+"252","X62",NA,97778,1135,126326,12186,15227,NA,126326,NA
+"253","X71",NA,NA,NA,NA,NA,NA,1083433,1083433,NA
+"254","X80",NA,92824,27443,147708,11253,16172,440112,587820,16
+"255","Y01","Unemployment Compensation - Contribution",NA,NA,NA,NA,NA,2140292,2140292,NA
+"256","Y02","Unemployment Compensation - Interest Revenue",NA,NA,NA,NA,NA,33900,33900,NA
+"257","Y05","Unemployment Compensation - Benefit Payments",NA,NA,NA,NA,NA,1922176,1922176,NA
+"258","Y06","Unemployment Compensation - Extended & Special Payments",NA,NA,NA,NA,NA,106,106,NA
+"259","Y07","Unemployment Compensation - Balance In US Treasury",NA,NA,NA,NA,NA,1535405,1535405,NA
+"260","Y08","Unemployment Compensation - Other Balance (+ or-)",NA,NA,NA,NA,NA,1535405,1535405,NA
+"261","Y11","Workers Compensation - Other Contributions",NA,NA,NA,NA,NA,51053,51053,NA
+"262","Y12","Workers Compensation - Interest Earnings",NA,NA,NA,NA,NA,228,228,NA
+"263","Y14","Workers Compensation - Benefit Payments",NA,NA,NA,NA,NA,43956,43956,NA
+"264","Y21","Workers Compensation - Cash & Assets",NA,NA,NA,NA,NA,66793,66793,NA
+"265","Y52","Other Insurance Trust - Interest Revenue",NA,NA,NA,NA,NA,12,12,NA
+"266","Y53","Other Insurance Trust - Benefit Payment",NA,NA,NA,NA,NA,185,185,NA
+"267","Y61","Other Insurance Trust - Cash & Deposits",NA,NA,NA,NA,NA,12914,12914,NA
+"268","Z00","Total Salaries & Wages",4231190,1554634,30432645,14867656,2995362,8263433,38696078,224701
+"269","Z01",NA,20978480,9186801,44848489,10073058,4608895,121729798,166578287,1255
