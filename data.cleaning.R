@@ -17,47 +17,24 @@ states = read_excel("government_ids.xls")
 states = separate(states, `ID Code`, c("ID", "garbage"), sep = 2)
 states = states[,1:2]
 
+
 data = right_join(states, data)
+
 
 govt = c("Total", "State", "Local", "County", "City", "Township", "Special", "School")
 
 type = data.frame(type=c("1", "2", "3", "5", "6", "7", "8", "9"), govt=govt)
 
 data = right_join(type, data)
+data = unite(data, "State_Type", c(3, 2))
 
 itemcodes = read_excel("itemcodesUpdated.xls")
 colnames(itemcodes) = c("item", "description")
 
 data = right_join(itemcodes, data)
 
-clean.data = data[,c(1, 2, 5, 4, 7)]
+clean.data = data[,c(1, 2, 4, 6)]
 
-il = clean.data %>%
-  filter(State == "Illinois")
-il = il[,-3]
-il = spread(il, govt, amount)
-write.table(il, "IL.csv", sep="\t", row.names = F)
+all.states = spread(clean.data, "State_Type", amount)
 
-ind = clean.data %>%
-  filter(State == "Indiana")
-ind = ind[,-3]
-ind = spread(ind, govt, amount)
-write.table(ind, "IN.csv", sep="\t", row.names = F)
-
-mi = clean.data %>%
-  filter(State == "Michigan")
-mi = mi[,-3]
-mi = spread(mi, govt, amount)
-write.table(mi, "MI.csv", sep="\t", row.names = F)
-
-oh = clean.data %>%
-  filter(State == "Ohio")
-oh = oh[,-3]
-oh = spread(oh, govt, amount)
-write.table(oh, "OH.csv", sep="\t", row.names = F)
-
-wi = clean.data %>%
-  filter(State == "Wisconsin")
-wi = wi[,-3]
-wi = spread(wi, govt, amount)
-write.table(wi, "WI.csv", sep="\t", row.names = F)
+write.table(all.states, "Killian.csv", sep="\t", row.names = F)
