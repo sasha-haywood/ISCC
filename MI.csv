@@ -1,5 +1,5 @@
 "item"	"description"	"City"	"County"	"Local"	"School"	"Special"	"State"	"Total"	"Township"
-"19T"	NA	822019	1653670	2552165	NA	275	13937659	16489824	76201
+"19T"	"Tax - Other Selective Sales and Gross Receipts"	822019	1653670	2552165	NA	275	13937659	16489824	76201
 "19U"	"Long Term Debt Beginning – Unspecified Public Purposes (NEW as of 2005)"	9117958	4359925	35224376	16609138	3186032	19384269	54608645	1951323
 "24T"	"Long Term Debt Issue, Nonguaranteed - Public Debt for Private Purpose"	10938	167	17818	NA	5108	801206	819024	1605
 "29U"	"Long Term Debt Issue – Unspecified Public Purposes (NEW as of 2005)"	2122488	666925	6097121	2402830	660098	2178140	8275261	244780
@@ -44,16 +44,16 @@
 "B89"	"Intergovernmental Revenue from Federal - All Other"	142132	239351	397829	NA	3257	787910	1185739	13089
 "B91"	"Intergovernmental Revenue from Federal - Water Utilities"	19	NA	19	NA	NA	30353	30372	NA
 "B94"	"Intergovernmental Revenue from Federal - Transit Utilities"	60788	6461	164840	NA	97591	86532	251372	NA
-"C21"	NA	NA	NA	12798445	12798445	NA	NA	NA	NA
-"C30"	NA	695140	168623	1255995	NA	NA	NA	NA	392232
-"C42"	NA	10418	1501224	1513124	NA	1465	NA	NA	17
-"C46"	NA	442339	974320	1422612	NA	2520	NA	NA	3433
-"C50"	NA	368	235	606	NA	NA	NA	NA	3
-"C79"	NA	129005	688947	817975	NA	NA	NA	NA	23
-"C80"	NA	NA	35420	36710	NA	1290	NA	NA	NA
-"C89"	NA	296600	506548	1095341	NA	256889	NA	NA	35304
-"C91"	NA	NA	572	616	NA	44	NA	NA	NA
-"C94"	NA	2454	3649	137930	NA	131707	NA	NA	120
+"C21"	"Intergovernmental Revenue from State - Education"	NA	NA	12798445	12798445	NA	NA	NA	NA
+"C30"	"Intergovernmental Revenue from State - General Local Government Support"	695140	168623	1255995	NA	NA	NA	NA	392232
+"C42"	"Intergovernmental Revenue from State - Health and Hospitals"	10418	1501224	1513124	NA	1465	NA	NA	17
+"C46"	"Intergovernmental Revenue from State - Highways"	442339	974320	1422612	NA	2520	NA	NA	3433
+"C50"	"Intergovernmental Revenue from State - Housing and Community Develop."	368	235	606	NA	NA	NA	NA	3
+"C79"	"Intergovernmental Revenue from State - Public Welfare"	129005	688947	817975	NA	NA	NA	NA	23
+"C80"	"Intergovernmental Revenue from State - Sewerage"	NA	35420	36710	NA	1290	NA	NA	NA
+"C89"	"Intergovernmental Revenue from State - All Other"	296600	506548	1095341	NA	256889	NA	NA	35304
+"C91"	"Intergovernmental Revenue from State - Water Supply Systems"	NA	572	616	NA	44	NA	NA	NA
+"C94"	"Intergovernmental Revenue from State - Public Mass Transit Systems"	2454	3649	137930	NA	131707	NA	NA	120
 "D21"	"Intergovernmental Revenue from Local - Education"	NA	NA	NA	43011	NA	8689	NA	NA
 "D42"	"Intergovernmental Revenue from Local - Health & Hospitals"	99	42466	NA	NA	508	52070	NA	420
 "D46"	"Intergovernmental Revenue from Local - Highways"	13120	131001	NA	NA	1191	18377	NA	1750
@@ -73,7 +73,7 @@
 "E21"	"Current Operations - Other Education"	NA	NA	NA	NA	NA	239519	239519	NA
 "E22"	"Current Operations - Social Insurance Administration"	NA	NA	NA	NA	NA	176091	176091	NA
 "E23"	"Current Operations - Financial Administration"	203475	329471	652659	NA	NA	542682	1195341	119713
-"E24"	NA	585179	835	904308	NA	14227	NA	904308	304067
+"E24"	"Current Operations - Local Fire Protection"	585179	835	904308	NA	14227	NA	904308	304067
 "E25"	"Current Operations - Judicial and Legal Services"	150174	851889	1018939	NA	NA	187504	1206443	16876
 "E29"	"Current Operations - Central Staff Services"	233208	151445	532972	NA	NA	194874	727846	148319
 "E31"	"Current Operations - General Public Buildings"	58389	87123	198346	NA	NA	1189	199535	52834
@@ -109,7 +109,7 @@
 "F21"	"Construction - Education, Other"	NA	NA	NA	NA	NA	134	134	NA
 "F22"	"Construction - Social Insurance Administration"	NA	NA	NA	NA	NA	11	11	NA
 "F23"	"Construction - Financial Administration"	NA	NA	NA	NA	NA	7	7	NA
-"F24"	NA	NA	NA	3411	NA	26	NA	3411	3385
+"F24"	"Construction - Local Fire Protection"	NA	NA	3411	NA	26	NA	3411	3385
 "F25"	"Construction - Judicial & Legal"	NA	119	119	NA	NA	NA	119	NA
 "F29"	"Construction - Central Staff Services"	NA	23	23	NA	NA	5841	5864	NA
 "F31"	"Construction - General Public Buildings"	NA	NA	NA	NA	NA	4195	4195	NA
@@ -141,7 +141,7 @@
 "G18"	"Other Capital Outlay - Other Higher Education"	NA	NA	48211	48211	NA	333468	381679	NA
 "G21"	"Other Capital Outlay - Education, Other"	NA	NA	NA	NA	NA	147	147	NA
 "G23"	"Other Capital Outlay - Financial Administration"	NA	38	38	NA	NA	18	56	NA
-"G24"	NA	24882	370	75143	NA	1604	NA	75143	48287
+"G24"	"Other Capital Outlay - Local Fire Protection"	24882	370	75143	NA	1604	NA	75143	48287
 "G25"	"Other Capital Outlay - Judicial"	2386	5807	8208	NA	NA	71	8279	15
 "G29"	"Other Capital Outlay - Central Staff"	75	240	532	NA	NA	165	697	217
 "G31"	"Other Capital Outlay - General Public Building"	NA	NA	NA	NA	NA	7	7	NA
@@ -172,31 +172,31 @@
 "J19"	"Assistance and Subsidies – Scholarships and Other Subsidies – Education (NEW for 2005; previously under E19)"	NA	NA	NA	NA	NA	1201477	1201477	NA
 "J67"	"Assistance and Subsidies – Public Welfare, Federal Categorical Assistance Programs (NEW for 2005; previously under E67)"	NA	1057	1057	NA	NA	156090	157147	NA
 "J68"	"Assistance and Subsidies – Public Welfare, Cash Assistance Programs, Other (NEW for 2005; previously under E68)"	NA	NA	NA	NA	NA	91544	91544	NA
-"L01"	NA	4	NA	22	NA	18	NA	NA	NA
-"L04"	NA	NA	3538	3538	NA	NA	NA	NA	NA
-"L12"	NA	8	NA	233	NA	NA	NA	NA	225
-"L23"	NA	3	NA	67	NA	NA	NA	NA	64
-"L25"	NA	NA	3458	3458	NA	NA	NA	NA	NA
-"L32"	NA	5	179253	179303	NA	39	NA	NA	6
-"L36"	NA	25723	408	28470	NA	2339	NA	NA	NA
-"L44"	NA	19173	NA	20182	NA	NA	NA	NA	1009
-"L50"	NA	135	2	137	NA	NA	NA	NA	NA
-"L52"	NA	NA	NA	8	NA	4	NA	NA	4
-"L59"	NA	NA	NA	18	NA	18	NA	NA	NA
-"L61"	NA	NA	355	355	NA	NA	NA	NA	NA
-"L62"	NA	57	34	198	NA	NA	NA	NA	107
-"L67"	NA	NA	50865	50865	NA	NA	NA	NA	NA
-"L79"	NA	NA	2575	2575	NA	NA	NA	NA	NA
-"L80"	NA	5	67	95	NA	NA	NA	NA	23
-"L81"	NA	143	NA	261	NA	55	NA	NA	63
-"L89"	NA	1303	973	3012	NA	36	NA	NA	700
-"L91"	NA	NA	1	2	NA	1	NA	NA	NA
+"L01"	"? - Air Transportation"	4	NA	22	NA	18	NA	NA	NA
+"L04"	"Correctional Institutions"	NA	3538	3538	NA	NA	NA	NA	NA
+"L12"	"El-Sec Education"	8	NA	233	NA	NA	NA	NA	225
+"L23"	"? - Financial Administration"	3	NA	67	NA	NA	NA	NA	64
+"L25"	"Judicial and Legal"	NA	3458	3458	NA	NA	NA	NA	NA
+"L32"	"? - Health"	5	179253	179303	NA	39	NA	NA	6
+"L36"	"? - Hospitals"	25723	408	28470	NA	2339	NA	NA	NA
+"L44"	"? - Regular Highway"	19173	NA	20182	NA	NA	NA	NA	1009
+"L50"	"? - Housing and Community Development"	135	2	137	NA	NA	NA	NA	NA
+"L52"	"? - Libraries"	NA	NA	8	NA	4	NA	NA	4
+"L59"	"? - Natural Resources - Other"	NA	NA	18	NA	18	NA	NA	NA
+"L61"	"? - Parks and Recreation"	NA	355	355	NA	NA	NA	NA	NA
+"L62"	"Police protection"	57	34	198	NA	NA	NA	NA	107
+"L67"	"Federal Categorical Assistance Programs"	NA	50865	50865	NA	NA	NA	NA	NA
+"L79"	"? - Public Welfare - Other"	NA	2575	2575	NA	NA	NA	NA	NA
+"L80"	"? - Sewerage"	5	67	95	NA	NA	NA	NA	23
+"L81"	"? - Solid Waste Management"	143	NA	261	NA	55	NA	NA	63
+"L89"	"? - Other and Unallocable"	1303	973	3012	NA	36	NA	NA	700
+"L91"	"? - Water Supply"	NA	1	2	NA	1	NA	NA	NA
 "M01"	"Intergovernmental to Local NEC - Air Transportation"	NA	NA	NA	NA	740	69145	NA	NA
 "M04"	"Intergovernmental to Local NEC – Correctional Institutions (NEW for 2005)"	2870	156	NA	NA	NA	15294	NA	20
 "M05"	"Intergovernmental to Local NEC - Corrections, Other"	NA	NA	NA	NA	NA	13368	NA	NA
 "M12"	"Intergovernmental to Local NEC - Elementary and Secondary Education"	1115	NA	NA	NA	NA	NA	NA	784
 "M23"	"Intergovernmental to Local NEC - Financial Administration"	183	61	NA	NA	NA	47003	NA	429
-"M24"	NA	6659	NA	NA	NA	785	NA	NA	20804
+"M24"	"Intergovernmental to Local NEC -"	6659	NA	NA	NA	785	NA	NA	20804
 "M25"	"Intergovernmental to Local NEC - Judicial and Legal"	NA	668	NA	NA	NA	103913	NA	NA
 "M30"	"Intergovernmental to Local NEC - General Support"	NA	NA	NA	NA	NA	1287619	NA	NA
 "M32"	"Intergovernmental to Local NEC - Health"	590	3993	NA	NA	2035	152414	NA	958
@@ -260,10 +260,10 @@
 "X01"	"Employee Pensions Receipts - Local Employee Contribution"	561566	124918	711094	NA	1817	1004572	1715666	22793
 "X30"	"DISCONTINUED as of 2012; Employee Pensions - Total Federal Securities"	1233273	421274	1698447	NA	3007	7078987	8777434	40893
 "X40"	"DISCONTINUED as of 2002; see Z77 (Formerly: Employee Pensions - Securities - Corporate Bonds (Book Value))"	1206732	436975	1699038	NA	4028	7197880	8896918	51303
-"X50"	NA	68142	48537	121477	NA	112	585007	706484	4686
-"X62"	NA	42063	9676	55459	NA	37	NA	55459	3683
-"X71"	NA	NA	NA	NA	NA	NA	2765189	2765189	NA
-"X80"	NA	51907	14380	76725	NA	354	37698	114423	10084
+"X50"	"DISCONTINUED ??"	68142	48537	121477	NA	112	585007	706484	4686
+"X62"	"DISCONTINUED ??"	42063	9676	55459	NA	37	NA	55459	3683
+"X71"	"DISCONTINUED ??"	NA	NA	NA	NA	NA	2765189	2765189	NA
+"X80"	"DISCONTINUED ??"	51907	14380	76725	NA	354	37698	114423	10084
 "Y01"	"Unemployment Compensation - Contribution"	NA	NA	NA	NA	NA	1301016	1301016	NA
 "Y02"	"Unemployment Compensation - Interest Revenue"	NA	NA	NA	NA	NA	71831	71831	NA
 "Y05"	"Unemployment Compensation - Benefit Payments"	NA	NA	NA	NA	NA	822345	822345	NA
@@ -274,4 +274,4 @@
 "Y14"	"Workers Compensation - Benefit Payments"	NA	NA	NA	NA	NA	15689	15689	NA
 "Y21"	"Workers Compensation - Cash & Assets"	NA	NA	NA	NA	NA	35866	35866	NA
 "Z00"	"Total Salaries & Wages"	1932389	1643803	15402511	7753215	597609	9975830	25378340	598009
-"Z01"	NA	14132382	5620200	20426466	NA	54168	68730668	89157134	619716
+"Z01"	"Number of Active Members"	14132382	5620200	20426466	NA	54168	68730668	89157134	619716
